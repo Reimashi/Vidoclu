@@ -1,0 +1,27 @@
+/* Aitor González Fernández */
+
+/* Estilos basicos */
+
+body {
+  background-color: #d8d0e1;
+  font: 70%/160% "verdana", sans-serif;
+  color: #192666;
+  padding: 0px;
+}
+
+/* Cuerpo del HTML */
+ 
+#contenedor {
+  width:770px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p, h1, h2 {
+	text-align: center;
+}
+
+img {
+	align: center;
+}
